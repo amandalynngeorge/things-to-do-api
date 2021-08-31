@@ -1,0 +1,34 @@
+{
+  "to_do": [
+    {
+      "id": 1,
+      "title": "Create the app",
+      "description": "Start the new project with create-react-app",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Finish the app",
+      "description": "Follow the steps to have a to do app",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "Test the app",
+      "description": "Create testing for the app",
+      "done": false
+    },
+    {
+      "id": 4,
+      "title": "Turn in the app",
+      "description": "Write up the post-mortem and turn in project",
+      "done": false
+    },
+    {
+      "id": 8,
+      "title": "Celebrate",
+      "description": "Do a little dance",
+      "done": false
+    }
+  ]
+}
